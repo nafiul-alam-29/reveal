@@ -1,3 +1,16 @@
-#main-colour {
+.main-colour {
   color: #03c988;
+}
+
+.banner-img1 {
+  background-image: url(resource/image/carousel/1.jpg);
+  height: 100vh;
+}
+.banner-img2 {
+  background-image: url(resource/image/carousel/2.jpg);
+  height: 100vh;
+}
+.banner-img3 {
+  background-image: url(resource/image/carousel/3.jpg);
+  height: 100vh;
 }
